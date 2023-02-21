@@ -1,0 +1,10 @@
+body {
+    background-color: #2e2e2e;
+    color: rgb(0, 0, 0);
+}
+.fa-steam:hover {  
+    transform: rotate(360deg);
+}
+.fa-steam {
+    transition: transform 0.5s ease 0s;
+}
